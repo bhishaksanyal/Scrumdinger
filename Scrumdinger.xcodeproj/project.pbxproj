@@ -14,6 +14,7 @@
 		DB6965C628B3CCEB00F470BC /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB6965C528B3CCEB00F470BC /* MeetingView.swift */; };
 		DB6965C828B3CCF000F470BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB6965C728B3CCF000F470BC /* Assets.xcassets */; };
 		DB6965CB28B3CCF000F470BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB6965CA28B3CCF000F470BC /* Preview Assets.xcassets */; };
+		DBC8138528EA0E4A00C3B518 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBC8138428EA0E4A00C3B518 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DB6965C528B3CCEB00F470BC /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		DB6965C728B3CCF000F470BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB6965CA28B3CCF000F470BC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DBC8138428EA0E4A00C3B518 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			children = (
 				DB6965C528B3CCEB00F470BC /* MeetingView.swift */,
 				DB50D60328CBC413006B2A21 /* CardView.swift */,
+				DBC8138428EA0E4A00C3B518 /* ScrumsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB50D60128CBC354006B2A21 /* DailyScrum.swift in Sources */,
+				DBC8138528EA0E4A00C3B518 /* ScrumsView.swift in Sources */,
 				DB50D5FF28CBC2BB006B2A21 /* Theme.swift in Sources */,
 				DB6965C628B3CCEB00F470BC /* MeetingView.swift in Sources */,
 				DB6965C428B3CCEB00F470BC /* ScrumdingerApp.swift in Sources */,
